@@ -1,4 +1,4 @@
-# Prédiction d'approbation de prêt
+# Prédiction d'approbation de micro crédit
 
 
 
