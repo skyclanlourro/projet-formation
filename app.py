@@ -2,6 +2,7 @@ import flask
 import pickle
 import pandas as pd
 import numpy as np
+import os
 
 
 from sklearn.preprocessing import StandardScaler
@@ -187,4 +188,5 @@ def Loan_Application():
         
       
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = os.version.get("PORT", 5000)
+    app.run(debug=False, host="0.0.0.0", port=port)
