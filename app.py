@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 #load models at top of app to load into memory only one time
-with open('models/loan_application_model_lr.pickle', 'rb') as f:
+with open('Models/loan_application_model_lr.pickle', 'rb') as f:
     clf_lr = pickle.load(f)
 
 
@@ -188,5 +188,4 @@ def Loan_Application():
         
       
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 5000))
-    app.run(debug=False, host="0.0.0.0", port=port)
+    app.run(debug=False)
