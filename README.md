@@ -16,7 +16,7 @@ La demande de prêt est cruciale pour déterminer si le prêteur accordera la de
 
 # Énoncé du problème
 
-Le directeur de la banque SZE a identifié que parcourir les demandes de prêt pour filtrer les personnes qui peuvent obtenir
+Le directeur de la banque LE-MAL a identifié que parcourir les demandes de prêt pour filtrer les personnes qui peuvent obtenir
 des prêts ou qui doivent être rejetées est un processus fastidieux et long. Il veut l'automatiser et augmenter l'efficacité de sa banque.
 Le directeur de la banque LE-MAL a identifié que parcourir les demandes de prêt pour filtrer les personnes qui peuvent obtenir des prêts
 ou qui doivent être rejetés est un processus fastidieux et long.
