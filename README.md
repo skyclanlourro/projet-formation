@@ -8,7 +8,7 @@
 
 [Github] (https://github.com/skyclanlourro/micro-pret.git)
 
-![alt text](https://github.com/skyclanlourro/projet-formation/blob/main/demo.jpg?raw=true)
+![alt text](https://github.com/skyclanlourro/projet-formation/blob/main/demo.png?raw=true)
 
 # Contenu
 
