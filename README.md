@@ -8,6 +8,8 @@
 
 [Github] (https://github.com/skyclanlourro/micro-pret.git)
 
+![alt text](https://github.com/skyclanlourro/projet-formation/blob/main/demo.jpg?raw=true)
+
 # Contenu
 
 Une demande de prêt est utilisée par les emprunteurs pour demander un prêt. 
