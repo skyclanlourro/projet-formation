@@ -1,6 +1,6 @@
 # Prédiction d'approbation de micro crédit
 
-
+C'est un projet que j'ai mené à bien avec une camarade de classe, il nous aura fallu environ 5 mois pour le terminer.
 
 # Demo
 
