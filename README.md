@@ -6,8 +6,6 @@
 
 [Micro-Prêt](https://micro-pret.herokuapp.com)   [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
 
-[Github] (https://github.com/skyclanlourro/micro-pret.git)
-
 ![alt text](https://github.com/skyclanlourro/projet-formation/blob/main/demo.png?raw=true)
 ![alt text](https://github.com/skyclanlourro/projet-formation/blob/main/demo2.png?raw=true)
 
